@@ -11,14 +11,14 @@ namespace CustomerFundao.Test
         [Given(@"I have a Customer Controller With Index Action")]
         public void GivenIHaveACustomerControllerWithIndexAction()
         {
-            var controller = new CustomerFundao.Controllers.CustomerController();
+            var controller = new Controllers.CustomerController();
             Bag.CustomerController = controller;
         }
         
         [When(@"I Request All Customers")]
         public void WhenIRequestAllCustomers()
         {
-            var controller = Bag.CustomerController as Controller;
+            var controller = Bag.CustomerController as Controllers.CustomerController;
             var result = controller.Index();
             Bag.Result = result;
         }

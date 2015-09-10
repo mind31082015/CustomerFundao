@@ -9,7 +9,7 @@ namespace CustomerFundao.Controllers
     public class CustomerController : Controller
     {
         // GET: Customer
-        public JsonResult Index()
+        public ActionResult Index()
         {
             return View();
         }
