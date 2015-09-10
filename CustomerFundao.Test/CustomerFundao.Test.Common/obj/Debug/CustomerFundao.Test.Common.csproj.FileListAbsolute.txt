@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\CustomerFundao\CustomerFundao.Test\CustomerFundao.Test.Common\bin\Debug\CustomerFundao.Test.Common.dll
+C:\Users\Admin\Documents\CustomerFundao\CustomerFundao.Test\CustomerFundao.Test.Common\bin\Debug\CustomerFundao.Test.Common.pdb
+C:\Users\Admin\Documents\CustomerFundao\CustomerFundao.Test\CustomerFundao.Test.Common\obj\Debug\CustomerFundao.Test.Common.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\CustomerFundao\CustomerFundao.Test\CustomerFundao.Test.Common\obj\Debug\CustomerFundao.Test.Common.dll
+C:\Users\Admin\Documents\CustomerFundao\CustomerFundao.Test\CustomerFundao.Test.Common\obj\Debug\CustomerFundao.Test.Common.pdb
